@@ -6,6 +6,7 @@
 ```sh
 pip install rmd_x8
 ```
+download actuators log: https://drive.google.com/file/d/1fkzuAYywMtQnGF6aaQC_o443t-Th05iM/view?usp=drive_link
 
 ## Usage
 ```py
